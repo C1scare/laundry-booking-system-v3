@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Machine 1",
+    "status": "available",
+    "lastUsed": "2024-12-28T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Machine 2",
+    "status": "in-use",
+    "timeRemaining": 30,
+    "nextBooking": "2024-12-28T18:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Machine 3",
+    "status": "maintenance"
+  },
+  {
+    "id": "4",
+    "name": "Machine 4",
+    "status": "error",
+    "error": "Door malfunction"
+  }
+]

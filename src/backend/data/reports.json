@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "type": "machine",
+    "reporterId": "1",
+    "machineId": "4",
+    "issueType": "door",
+    "description": "Door won't close properly",
+    "urgency": "high",
+    "status": "pending",
+    "createdAt": "2024-12-28T15:30:00Z"
+  }
+]

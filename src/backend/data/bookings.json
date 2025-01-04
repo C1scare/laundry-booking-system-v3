@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "machineId": "1",
+    "date": "2024-12-28",
+    "startTime": "14:00",
+    "duration": 60,
+    "program": "Normal Wash",
+    "status": "upcoming",
+    "isFixedSlot": true,
+    "waterUsage": 45,
+    "energyUsage": 0.9,
+    "co2Impact": 0.4
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "machineId": "2",
+    "date": "2024-12-29",
+    "startTime": "16:00",
+    "duration": 30,
+    "program": "Quick Wash",
+    "status": "upcoming",
+    "isFixedSlot": false,
+    "waterUsage": 30,
+    "energyUsage": 0.6,
+    "co2Impact": 0.3
+  }
+]

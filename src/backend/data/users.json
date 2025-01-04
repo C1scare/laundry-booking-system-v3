@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "username": "user1",
+    "password": "password123",
+    "bookingQuota": {
+      "daily": {
+        "limit": 2,
+        "used": 0
+      },
+      "weekly": {
+        "limit": 8,
+        "used": 0
+      }
+    },
+    "preferences": {
+      "notifications": {
+        "email": true,
+        "push": false,
+        "sms": false,
+        "machineAvailable": true,
+        "bookingReminder": true,
+        "washingComplete": true,
+        "machineError": true
+      },
+      "language": "en"
+    }
+  }
+]
